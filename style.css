@@ -1,14 +1,14 @@
 .intro-message {
-	color: #FFF;
+	color: #363636;
 	text-align: center;
 	padding-top: 10%;
-	padding-bottom: 10%;
+	padding-bottom: 5%;
 }
 body {
 	background: url(intro-bg2.jpg) no-repeat center center;
 }
 .signup-form {
-	color: #363636;
+	color: white;
 	text-align: center;
 }
 .email {
